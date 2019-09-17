@@ -1,7 +1,7 @@
 
 # Awesome Product Management
 
-Awesome articles, videos and other interesting links that are useful for system design.
+Awesome articles, videos and other interesting links that are useful for product management.
 
 Articles
 --
