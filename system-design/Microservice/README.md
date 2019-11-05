@@ -6,6 +6,8 @@ Awesome articles, videos and other interesting links that are useful for Microse
 Articles
 --
 
+- [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f) -  How Medium moved to a microservice architecture in early 2018.
+
 - [Conquering the Microservices Dependency Hell](https://medium.com/better-practices/conquering-the-microservices-dependency-hell-at-postman-with-postman-part-1-introduction-a1ae019bb934) - Conquering the Microservices Dependency Hell at Postman, with Postman
 
 - [Microservices or monolith? It's just a detail.](https://threedots.tech/post/microservices-or-monolith-its-detail/) - Why using Microservices or Monolith can be just a detail?
