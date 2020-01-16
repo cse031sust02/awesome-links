@@ -15,6 +15,8 @@ Articles
 Video
 --
 
+- [Martin Fowler – Microservices](https://www.youtube.com/watch?v=2yko4TbC8cI) - This talk looks at some of the common characteristics of microservice architectures, what (if any) the difference is between microservices and SOA, how big a microservice should be, the trade-offs between a monolithic and microservice architecture, and some essential things you need to have in place when you first go live using this approach.
+
 - [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo) - In this presentation, you will learn how to solve these problems by using an event-driven architecture to maintain data consistency and by using Docker to simplify deployment.
 
 - [10 Tips for failing badly at Microservices by David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ) - A really cool presentation by David Schmitz
