@@ -18,6 +18,8 @@ Video
 
 - [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ) - In this video, we learn about all the bits and pieces of system design. We get an overview of the web architecture and see how all the pieces of the puzzles fit together.
 
+- [AWS re:Invent 2018: Scaling Up to Your First 10 Million Users](https://www.youtube.com/watch?v=Ma3xWDXTxRg) - We show you how to best combine different AWS services, how to make smarter decisions for architecting your application, and how to scale your infrastructure in the cloud.
+
 - [System Design Series by Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - This series touched key areas in system design used to design real world systems and asked as interview questions. 1) Load balancing 2) Message Passing 3) Microservice architecture
 
 - [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) - Using a series of examples all set in a coffee shop, we’ll explore topics like distributed storage, computation, timing, messaging, and consensus
