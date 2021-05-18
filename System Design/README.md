@@ -4,7 +4,7 @@
 Awesome articles, videos and other interesting links that are useful for system design.
 
 Articles
-----------------------
+--
 
 - [System Design Cheat Sheet](https://medium.com/@nvashanin/system-design-cheat-sheet-762810f95fb6) - You can use it for interviews or assessments, pre-sales, or estimations.
 
@@ -14,7 +14,7 @@ Articles
 
 
 Video
-----------------------
+--
 
 - [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ) - In this video, we learn about all the bits and pieces of system design. We get an overview of the web architecture and see how all the pieces of the puzzles fit together.
 

@@ -20,5 +20,4 @@ Courses
 
 - [User Stories : Master The Art Of Managing Agile User Story](https://www.udemy.com/course/user-story/) - A Practical And Easy Way To Write, Maintain and Deliver User Stories For Agile Scrum Team And Product Owner
 
-- [Introduction to Software Product Management
-by University of Alberta](https://www.coursera.org/learn/introduction-to-software-product-management) - This course explains how foundational components of software product management—process, requirements, planning, and monitoring—function together to produce better software.
+- [Introduction to Software Product Management by University of Alberta](https://www.coursera.org/learn/introduction-to-software-product-management) - This course explains how foundational components of software product management—process, requirements, planning, and monitoring—function together to produce better software.

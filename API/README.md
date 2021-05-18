@@ -4,12 +4,12 @@
 Awesome articles, videos and other interesting links that are useful for API design.
 
 Blog
----------------------
+--
 - [APIs You Won't Hate](https://apisyouwonthate.com/blog) - APIs You Won't Hate is dedicated to learning, writing, sharing ideas and bettering understanding of API practices.
 
 
 Articles
-----------------------
+--
 
 - [What is an API? In English, please.](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/) -  how do you explain API in plain English? And is there a broader meaning than the one used in development and business?
 
@@ -19,6 +19,6 @@ Articles
 
 
 Video
-----------------------
+--
 
 - [APIs for Beginners - How to use an API ](https://www.youtube.com/watch?v=GZvSYJDk-us) - What is an API? Learn all about APIs (Application Programming Interfaces) in this full tutorial for beginners.

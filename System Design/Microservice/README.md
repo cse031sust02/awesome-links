@@ -12,6 +12,7 @@ Articles
 
 - [Microservices or monolith? It's just a detail.](https://threedots.tech/post/microservices-or-monolith-its-detail/) - Why using Microservices or Monolith can be just a detail?
 
+
 Video
 --
 
@@ -20,7 +21,6 @@ Video
 - [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo) - In this presentation, you will learn how to solve these problems by using an event-driven architecture to maintain data consistency and by using Docker to simplify deployment.
 
 - [10 Tips for failing badly at Microservices by David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ) - A really cool presentation by David Schmitz
-
 
 
 Sites
