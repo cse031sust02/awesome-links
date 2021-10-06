@@ -8,3 +8,4 @@ Video
 
 - [Logging Basics - Logging to Files, Setting Levels, and Formatting](https://www.youtube.com/watch?v=-ARI4Cz-awo) - This tutorial goes over basics of logging.
 - [Logging Advanced - Loggers, Handlers, and Formatters](https://www.youtube.com/watch?v=mUu_4k6a5-I) - This tutorial goes over the some more advanced logging concepts. These will include loggers, handlers, and formatters.
+- [Logging and Exception Handling for Django](https://www.youtube.com/watch?v=ziegOuE7M4A) - DjangoCon 2019 -  Logging and Exception Handling for Django by Ryan Sullivan
